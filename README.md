@@ -1,5 +1,9 @@
-# sharing_gender_recognition
+# gender-recognition
 
-逢甲大學的「人工智慧工程師」課程專題
+This is a project for “AI Engineer Development Program” from Feng Chia University in Taiwan.
+Which I attended from March of 2021 to May 2021.
 
-利用人臉圖像辨識性別
+#Purpose of the project
+The project is using transfer learning to create a program that can recognise the gender of figures in photos.
+
+
