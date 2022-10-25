@@ -1,4 +1,4 @@
-# Image gender classification
+# Gender classification of images
 
 This is a project for “AI Engineer Development Program” from Feng Chia University in Taiwan.
 Which I attended from March of 2021 to May 2021.
